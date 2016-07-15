@@ -1,0 +1,15 @@
+name: SSoC Wiki
+baseurl: /ssoc
+encoding: utf-8
+exclude: ['Gemfile', 'Gemfile.lock']
+kramdown:
+  input: GFM
+
+nav: [
+  ['What is SSoC?',                    'index'          ],
+  ['Who is it for?',                   'who-is-it-for'  ],
+  ['How can mentors and POs Apply?',   'mentors-apply'  ],
+  ['How can Students apply?',          'students-apply' ],
+  ['TimeLine',                         'timeline'       ],
+  ['FAQ',                              'faq'            ],
+]
