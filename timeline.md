@@ -1,14 +1,20 @@
----
-layout: main
-title: Overview
----
 #Events in order..
-------------------------------------------------------------------@Vactaion
-1. Event for SSoC Mentoring Organizations (Projects and Mentors Recruitment)
-- launch the event 
-- choose projects & mentors that fit into put criteria
 
-------------------------------------------------------------------@September
+***
+
+@Vacation 2016
+
+***
+1. Event for SSoC Mentoring Organizations (Projects and Mentors Recruitment)
+    - launch the event 
+    - choose projects & mentors that fit into put criteria
+
+***
+
+@September 2016
+
+***
+
 2. Event for students to apply (Continuous)
 3. Campaign to know more about Google summer of code
     - through social media simple posts 
@@ -20,7 +26,8 @@ title: Overview
 8. Meeting between Project Owners / Mentors and Students to give them a head start and a total overview of the project they will work on
 9. CHANGE THE WORLD..
 10. Many separate sessions about tricks, writing clean and efficient code.. etc
-11. END of Program 
-12. Hold a closing
+11. END of Program & Final Evaluation *for students & Mentors through feedback from both and comparing output to propsals and projects docs*
+12. Hold a closing *announcing nice output, learned lessons, bla bla*
 13. Encourage people to apply in GSoC and pay what they've learnt forward.
+
 ***
